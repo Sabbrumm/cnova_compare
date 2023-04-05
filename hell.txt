@@ -1,0 +1,13 @@
+carl from clara
+stole some coralli
+
+#include <iostream>
+using namespace std;
+
+int main{
+    cout<<"hello world";
+    return 0;
+}
+
+5557g77
+0987654321234567890
